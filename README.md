@@ -2,3 +2,5 @@
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="htpps://rodolfomori.com.br/devclub">DevClub</a></h2>
+
+<img src="https://github.com/Bene-venuto/easy-shopping/blob/master/img/Desktop.png?raw=true" />
